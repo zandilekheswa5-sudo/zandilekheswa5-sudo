@@ -29,7 +29,7 @@ I build modern, responsive websites and web applications using React, Next.js, T
 Task management dashboard with analytics, priorities, authentication and productivity tracking.
 
 🔗 Live Demo:
-[](https://focusflow-dashboard-woad.vercel.app/)
+https://focusflow-dashboard-woad.vercel.app/
 
 📂 Repository:
 https://github.com/zandilekheswa5-sudo/focusflow
@@ -106,7 +106,7 @@ IBM Full Stack Software Developer Professional Certificate (In Progress)
 ## 🌍 Connect with me
 
 💼 LinkedIn:
-[](https://www.linkedin.com/in/zandile-kheswa-04149b244?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+https://www.linkedin.com/in/zandile-kheswa-04149b244
 
 🌐 Portfolio:
 https://zandile-dev.vercel.app/
