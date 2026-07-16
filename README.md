@@ -1,8 +1,8 @@
 # Hi 👋, I'm Zandile Kheswa
 
-### Frontend Developer | React Developer | JavaScript Developer
+### Frontend Developer | React Developer | Building Modern Web Applications
 
-I build modern, responsive websites and web applications using React, Next.js, TypeScript, Tailwind CSS, and Supabase.
+I build modern, responsive websites and web applications using React, Next.js, TypeScript, Tailwind CSS, and Supabase. I'm currently expanding my backend skills with Node.js and Express while exploring AI-powered web applications.
 
 💼 Open to Frontend Developer roles, freelance projects, and remote opportunities.
 
@@ -26,7 +26,7 @@ I build modern, responsive websites and web applications using React, Next.js, T
 ## 🚀 Featured Projects
 
 ### 📌 FocusFlow
-Task management dashboard with analytics, priorities, authentication and productivity tracking.
+Productivity dashboard featuring task management, analytics, authentication, priorities, and progress tracking.
 
 🔗 Live Demo:
 https://focusflow-dashboard-woad.vercel.app/
